@@ -1,0 +1,22 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    text-align: center;
+    width: 800px;
+    padding: 30px;
+    
+}
+
+#page{
+    box-sizing: border-box;
+    width: 800px;
+    padding: 30px;
+    text-align: center;
+    margin: 300px auto 28px;
+}
+
+img{
+    border-radius: 16px;
+}
