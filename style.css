@@ -49,3 +49,23 @@ p{
     margin: 36px 0;
     background-color: #2b2929;
 }
+
+h2{
+
+  font-size: 25px;
+  color: red;
+  font-style: italic;
+  text-transform: uppercase;
+  margin-top: 50px;
+  position: relative;
+  left: 190px;
+}
+
+#page-tokyo{
+
+    box-sizing: border-box;
+    width: 1500px;
+    text-align: center;
+    margin: 100px auto 28px;
+}
+
