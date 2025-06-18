@@ -1,22 +1,51 @@
 body{
-    background-color: cadetblue;
+    background-color: rgb(248, 241, 233);
+    width: 100%;
 }
 
-h1{
-    text-align: center;
-    width: 800px;
-    padding: 30px;
-    
+h1{    
+    font-size: 25px;
+    color:red;
+    font-style: italic;
+    text-transform: uppercase;
+    margin-top: 50px;
+    position: relative;
+    left: 190px; 
+}
+
+.subtitle{
+    font-size: 60px;
+    color: black;
+    font-style: italic;
+    text-transform: uppercase;
+    margin-top: 70px;
+    position: relative;
+    left: 5px;
 }
 
 #page{
     box-sizing: border-box;
-    width: 800px;
-    padding: 30px;
+    width: 1500px;
     text-align: center;
-    margin: 300px auto 28px;
+    margin: 100px auto 28px;
 }
 
 img{
     border-radius: 16px;
+    width: 100%;
+}
+
+p{
+    font-size: 25px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    left: 200px;
+}
+
+.divider {
+    width: 100%;
+    height: 4px;
+    margin: 36px 0;
+    background-color: #2b2929;
 }
