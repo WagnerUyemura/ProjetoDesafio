@@ -17,6 +17,7 @@ h1{
     font-size: 60px;
     color: black;
     font-style: italic;
+    font-weight: 100;
     text-transform: uppercase;
     margin-top: 70px;
     position: relative;
@@ -35,7 +36,7 @@ img{
     width: 100%;
 }
 
-p{
+.texto-templo{
     font-size: 25px;
     color: black;
     font-family: 'Courier New', Courier, monospace;
@@ -89,4 +90,36 @@ h2{
     left: 190px;
 }
 
+.Kyoto{
+    font-size: 25px;
+  color: red;
+  font-style: italic;
+  text-transform: uppercase;
+  margin-top: 50px;
+  position: relative;
+  left: 0px;
+
+}
+
+.texto-kyoto{
+    font-size: 25px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    position: relative;
+    left: 0px;  
+}
+
+.otimo{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+li{
+    color: chocolate;
+    font-size: 25px;
+    position: relative;
+    left: -20px;
+}
 
