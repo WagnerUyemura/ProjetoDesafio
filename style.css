@@ -145,6 +145,11 @@ ul li::marker{
     position: relative;
     left: 0px;  
 }
+.otimo{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold; 
+}
 
 
 
