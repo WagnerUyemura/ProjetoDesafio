@@ -9,7 +9,7 @@ h1{
     text-transform: uppercase;
     margin-top: 50px;
     position: relative;
-    left: 435px; 
+    left: 300px; 
 }
 
 .subtitle{
@@ -20,7 +20,7 @@ h1{
     text-transform: uppercase;
     margin-top: 70px;
     position: relative;
-    left: 435px;
+    left: 300px;
 }
 #page{
     box-sizing: border-box;
@@ -38,7 +38,7 @@ img{
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
     position: relative;
-    left: 435px;
+    left: 300px;
 }
 .divider {
     width: 100%;
@@ -54,7 +54,7 @@ h2{
   text-transform: uppercase;
   margin-top: 50px;
   position: relative;
-  left: 435px;
+  left: 300px;
 }
 #page-tokyo{
 
@@ -70,7 +70,7 @@ h2{
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
     position: relative;
-    left: 435px;
+    left: 300px;
 
 }
 .subtitle2{
@@ -80,7 +80,7 @@ h2{
     text-transform: uppercase;
     margin-top: 70px;
     position: relative;
-    left: 435px;
+    left: 300px;
 }
 .Kyoto{
     font-size: 30px;
